@@ -19,7 +19,7 @@ Remove the null values from the data
 Save the Clean data to the file
 
 ## CODE and OUTPUT
-### Data Cleaning Process for a dataset
+### Data cleaning process for a dataset
 ![Screenshot 2024-08-31 163530](https://github.com/user-attachments/assets/b9344735-72d7-4cff-8e56-386526e21321)
 ![Screenshot 2024-08-31 163605](https://github.com/user-attachments/assets/5b6f61c8-97fa-43dc-9908-8215f4f4077d)
 ![Screenshot 2024-08-31 163642](https://github.com/user-attachments/assets/79708263-b2a6-4045-8f54-3d1321ae8600)
