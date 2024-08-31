@@ -49,7 +49,7 @@ Save the Clean data to the file
 ![Screenshot 2024-08-31 164756](https://github.com/user-attachments/assets/a4ba07d2-7b1d-40ce-9844-a09a90480c0c)
 ![Screenshot 2024-08-31 164820](https://github.com/user-attachments/assets/a721aa62-1f98-4441-9633-dfd436b46030)
 ![Screenshot 2024-08-31 164842](https://github.com/user-attachments/assets/e1bfbf1b-8c09-4bf9-972e-937ef3f30450)
-### Outerlier detection and removal for a dataset
+### Outlier detection and removal for a dataset
 ![Screenshot 2024-08-31 173710](https://github.com/user-attachments/assets/6b69f317-233c-4201-a672-5decd232b1a9)
 ![Screenshot 2024-08-31 173728](https://github.com/user-attachments/assets/2769def7-ee18-4c44-b19a-cb87aee9a2e2)
 ![Screenshot 2024-08-31 173742](https://github.com/user-attachments/assets/149f2f97-c339-4358-bdb2-fe593661b226)
