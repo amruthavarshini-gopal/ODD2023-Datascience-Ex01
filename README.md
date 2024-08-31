@@ -4,11 +4,14 @@
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
 
+
 ## EXPLANATION
 Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect ,incompleted , irrelevant , duplicated or improperly formatted. 
 Data cleaning is not simply about erasing data ,but rather finding a way to maximize datasets accuracy without necessarily deleting the information. 
 
+
 ## ALGORITHM
+
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -18,7 +21,9 @@ Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
 
+
 ## CODE and OUTPUT
+
 ### Data cleaning process for a dataset
 ![Screenshot 2024-08-31 163530](https://github.com/user-attachments/assets/b9344735-72d7-4cff-8e56-386526e21321)
 ![Screenshot 2024-08-31 163605](https://github.com/user-attachments/assets/5b6f61c8-97fa-43dc-9908-8215f4f4077d)
@@ -49,6 +54,7 @@ Save the Clean data to the file
 ![Screenshot 2024-08-31 164756](https://github.com/user-attachments/assets/a4ba07d2-7b1d-40ce-9844-a09a90480c0c)
 ![Screenshot 2024-08-31 164820](https://github.com/user-attachments/assets/a721aa62-1f98-4441-9633-dfd436b46030)
 ![Screenshot 2024-08-31 164842](https://github.com/user-attachments/assets/e1bfbf1b-8c09-4bf9-972e-937ef3f30450)
+
 ### Outlier detection and removal for a dataset
 ![Screenshot 2024-08-31 173710](https://github.com/user-attachments/assets/6b69f317-233c-4201-a672-5decd232b1a9)
 ![Screenshot 2024-08-31 173728](https://github.com/user-attachments/assets/2769def7-ee18-4c44-b19a-cb87aee9a2e2)
@@ -60,6 +66,7 @@ Save the Clean data to the file
 ![Screenshot 2024-08-31 174000](https://github.com/user-attachments/assets/71f5073c-e744-4ab8-8b47-3c7f5f89eb5c)
 ![Screenshot 2024-08-31 174018](https://github.com/user-attachments/assets/554b7c45-85a4-45a7-a3cc-1aa45c458e36)
 ![Screenshot 2024-08-31 174035](https://github.com/user-attachments/assets/e18cc599-dd5b-4994-84e7-837c2b91f1ba)
+
 ### Solution to the queries of a dataset
 ![Screenshot 2024-08-31 174549](https://github.com/user-attachments/assets/aeb15f6a-5531-4213-bd6e-adb66e02ee4f)
 ![Screenshot 2024-08-31 174607](https://github.com/user-attachments/assets/664c3db9-5b99-4913-bd2f-f461294a7568)
@@ -70,6 +77,7 @@ Save the Clean data to the file
 ![Screenshot 2024-08-31 174836](https://github.com/user-attachments/assets/fb7ad278-1fb5-44e2-a067-74abc0d955f7)
 ![Screenshot 2024-08-31 174907](https://github.com/user-attachments/assets/0a84ddd3-a7ab-431e-8f99-ba4dbb25c8d0)
 ![Screenshot 2024-08-31 174922](https://github.com/user-attachments/assets/b62bda71-0765-4244-bc81-9a9536e07f93)
+
 
 ## RESULT
 Thus, all the code and process was executed successfully.
